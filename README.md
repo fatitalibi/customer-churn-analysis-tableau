@@ -1,90 +1,55 @@
-<h1>Customer Churn Analysis Dashboard – Business Intelligence Project</h1>
+<h1>📊 Customer Churn Analysis Dashboard - Business Intelligence Project</h1>
 
 <h2>Description</h2>
-<p>
-This project presents a Customer Churn Analysis Dashboard built in Tableau to identify behavioral and contract-based drivers of customer attrition.
-</p>
 
-<p>
-Using a dataset of 64,374 customers, the analysis explores how payment behavior, usage frequency, and contract type influence churn risk. The dashboard highlights key churn thresholds and patterns that can inform targeted retention strategies.
-</p>
+A comprehensive Customer Churn Analysis Dashboard built using Tableau to analyze customer behavior and identify key drivers of churn. This project uses a dataset of 64,374 customers to uncover trends in payment behavior, usage frequency, and contract structure, enabling data-driven retention strategies.
 
-<p>
-The objective of this project was to simulate a real-world telecom churn analysis and apply business intelligence principles to uncover actionable insights.
-</p>
+The dashboard highlights overall churn rate (47.37%), churn distribution, contract-based churn differences, payment delay risk thresholds, and engagement-related churn patterns. It demonstrates how business intelligence techniques can be applied to customer analytics to reduce attrition and improve customer lifetime value.
 
-<hr>
+<h2>Languages and Tools Used</h2>
 
-<h2>Tools Used</h2>
-<ul>
-  <li>Tableau (Dashboard Development & Visualization)</li>
-  <li>Calculated Fields</li>
-  <li>Table Calculations</li>
-  <li>Reference Lines & Annotations</li>
-  <li>Data Aggregation & KPI Design</li>
-</ul>
-
-<hr>
+- <b>Tableau</b> – Dashboard development, KPI design, and interactive visualization
+- <b>Calculated Fields</b> – Custom churn metrics and derived measures
+- <b>Table Calculations</b> – Percent of total and aggregated analysis
+- <b>Data Visualization</b> – Line charts, bar charts, annotations, and reference lines
+- <b>Business Intelligence</b> – Customer analytics, risk threshold identification, strategic insights
 
 <h2>Skills Demonstrated</h2>
-<ul>
-  <li><strong>Business Intelligence & KPI Development</strong></li>
-  <li><strong>Customer Behavior Analysis</strong></li>
-  <li><strong>Data Visualization & Storytelling</strong></li>
-  <li><strong>Risk Threshold Identification</strong></li>
-  <li><strong>Executive-Level Dashboard Design</strong></li>
-</ul>
 
-<hr>
+- <b>Customer Behavior Analysis</b> – Identifying churn drivers and engagement patterns
+- <b>Data Storytelling</b> – Translating behavioral trends into business insights
+- <b>KPI Development</b> – Designing executive-level churn metrics
+- <b>Dashboard Development</b> – Professional layout, annotations, and structured insight flow
+- <b>Risk Analysis</b> – Detecting behavioral thresholds linked to increased churn
 
 <h2>Key Performance Indicators (KPIs)</h2>
-<ul>
-  <li><strong>Total Customers:</strong> 64,374</li>
-  <li><strong>Churned Customers:</strong> 30,493</li>
-  <li><strong>Overall Churn Rate:</strong> 47.37%</li>
-</ul>
 
-<hr>
+<p align="center">
+<b>Total Customers:</b> 64,374 &nbsp;&nbsp;
+<b>Churned Customers:</b> 30,493 &nbsp;&nbsp;
+<b>Overall Churn Rate:</b> 47.37%
+</p>
 
-<h2>Dashboard Structure</h2>
-<ol>
-  <li>Overall churn metrics</li>
-  <li>Customer distribution by churn status</li>
-  <li>Churn rate by contract type</li>
-  <li>Churn rate by payment delay</li>
-  <li>Churn rate by usage frequency</li>
-</ol>
+<h2>🖼️ Project Walk-through</h2>
 
-<hr>
+<p align="center">
+<b>Main Dashboard Overview:</b><br/>
+</p>
+
+<p align="center">
+<img width="1200" alt="Customer Churn Dashboard" src="dashboard-preview.png"/>
+</p>
 
 <h2>Key Business Insights</h2>
-<ul>
-  <li>Customers on <strong>monthly contracts</strong> exhibit the highest churn rate (51.6%), indicating short-term commitment risk.</li>
-  <li>A sharp increase in churn occurs after <strong>15+ days of payment delay</strong>, suggesting a critical behavioral risk threshold.</li>
-  <li>Customers with <strong>low usage frequency</strong> demonstrate significantly higher churn rates compared to more engaged users.</li>
-  <li>Engagement stabilizes after moderate usage levels, where churn begins to level off.</li>
-</ul>
 
-<hr>
+- <b>Contract Risk:</b> Monthly contracts exhibit the highest churn rate (51.6%), indicating greater short-term customer instability.
+- <b>Payment Behavior:</b> Churn increases sharply after 15+ days of payment delay, revealing a critical behavioral risk threshold.
+- <b>Engagement Levels:</b> Low usage frequency customers show significantly higher churn compared to moderately engaged users.
+- <b>Stabilization Point:</b> Churn levels begin to stabilize after moderate usage frequency, suggesting engagement reduces churn risk.
 
 <h2>Strategic Recommendations</h2>
-<ul>
-  <li>Implement proactive outreach for customers exceeding 15 days of payment delay.</li>
-  <li>Develop engagement campaigns targeting low-usage customers.</li>
-  <li>Offer incentives for transitioning from monthly to longer-term contracts.</li>
-  <li>Use behavioral thresholds to build predictive churn monitoring systems.</li>
-</ul>
 
-<hr>
-
-<h2>Dashboard Preview</h2>
-<p>
-<img src="dashboard-preview.png" alt="Customer Churn Dashboard" width="900">
-</p>
-
-<hr>
-
-<h2>Business Impact</h2>
-<p>
-This analysis demonstrates how behavioral metrics and contract structures can be leveraged to identify churn risk patterns. By identifying clear risk thresholds, organizations can design targeted retention strategies and improve customer lifetime value.
-</p>
+- <b>Proactive Retention:</b> Implement alerts for customers exceeding 15 days of payment delay.
+- <b>Engagement Campaigns:</b> Target low-usage customers with personalized incentives.
+- <b>Contract Optimization:</b> Encourage transitions from monthly to longer-term contracts.
+- <b>Predictive Monitoring:</b> Leverage behavioral thresholds to build churn prediction models.
