@@ -37,7 +37,7 @@ The dashboard highlights overall churn rate (47.37%), churn distribution, contra
 </p>
 
 <p align="center">
-<img width="1200" alt="Customer Churn Dashboard" src="dashboard-preview.png"/>
+<img width="1200" alt="Customer Churn Dashboard" src="Screenshot 2026-02-24 010635.png"/>
 </p>
 
 <h2>Key Business Insights</h2>
